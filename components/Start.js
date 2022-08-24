@@ -41,7 +41,7 @@ export default class Start extends React.Component {
       <View style={  styles.container}>
         <ImageBackground source={BackgroundImage} resizeMode="cover" style={styles.image}>
         <View style={styles.titleFrame}>
-          <Text style={styles.title}>ChatPro</Text>
+          <Text style={styles.title}>FalaPala</Text>
               </View>
 
               <View style={styles.box}>
